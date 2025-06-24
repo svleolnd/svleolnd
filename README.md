@@ -4,6 +4,15 @@ Cientista de dados, atualmente trabalhando como analista de dados na Ball Corpor
 <br>
 <br>
 
+<!-- How to reach me -->
+## Como me contatar
+
+<a href="https://www.linkedin.com/in/lspereira26/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="contatoleoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br>
+<br>
+
 <!-- Portifolio -->
 ## Principais projetos
 
