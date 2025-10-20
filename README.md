@@ -25,6 +25,9 @@ Cientista de dados, atualmente trabalhando como analista de dados na Ball Corpor
 
 **[Previsão de Vendas de Rede Farmacêutica:](https://github.com/svleolnd/Rossmann_store_sales_prediction)** 
  O objetivo desse projeto é prever as vendas das lojas de uma rede farmacêutica durante as próximas seis semanas. A solução entregue foi um modelo de machine learning de regressão, disponibilizado via API que pode ser acessado via bot no telegram. Nele será possivel acessar a previsão de faturamento de cada loja do grupo.<br>
+
+ **[Previsão do ciclo de vida de um usuário:](https://github.com/svleolnd/loyalty-prediction)**
+ EM DESENVOLVIMENTO
 <br>
 <br>
 
