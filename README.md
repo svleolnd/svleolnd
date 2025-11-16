@@ -17,7 +17,7 @@ Cientista de dados, atualmente trabalhando como analista de dados na Ball Corpor
 <li>Estatística descritiva (localização, dispersão, assimetria, kurtosis, densidade).</li>
 <li>Algoritmos de Regressão, classificação e clusterização.</li>
 <li>Técnicas de balanceamento dos dados, seleção de atributos e redução de dimensionalidade.</li>
-<li>Métricas de performance dos algoritmos ( RMSE, MAE, MAPE, Confusion Matrix, Precisão, Recall ).</li>
+<li>Métricas de performance dos algoritmos ( RMSE, MAE, MAPE, Matriz de Confusão, Precisão, Recall, Curva ROC, AUC ).</li>
 <br>
 
 <!-- Portifolio -->
